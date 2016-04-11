@@ -146,3 +146,4 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b948"},"definition":" n. Air Force ROTC type.","word":"Zoomie"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
 {"_id":{"$oid":"570acccf276a1f81caff83e8"},"word":"Albany","definition":"cold"}
+{"_id":{"$oid":"570bd7d6276a1f81caff83e9"},"word":"New York City","definition":"Big Apple"}
