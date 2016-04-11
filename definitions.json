@@ -17,7 +17,7 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8c7"},"definition":" n. A very random and unpredictable sort of motion. Best typified by, say, a nice hot cup of tea. (Also see Halliday and Resnick.)","word":"Brownian Motion"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8c8"},"definition":" n. Your first degree, assuming you finish.","word":"B.S."}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8c9"},"definition":" n. The Center for Industrial Innovation, or CII, as translated by lovers of Roman numerals.","word":"Building 102"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8ca"},"definition":" v. To erase, eradicate or otherwise remove from the face of the Earth.","word":"Bulk"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8ca"},"name":"Vella 2","address":{"coord":[-73.0,40.0],"building":"1480","street":"2 Avenue","zipcode":"10075"}}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8cb"},"definition":" n. (RPI) For those who don't listen to WPYX, and still don't know this term, it means Albany and Rensselaer Counties and the general surrounding area.","word":"Capitaland"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8cc"},"definition":" n.  A package containing munchies, junk food and probably a stuffed animal, intended to ease homesickness.","word":"Care Package"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8cd"},"definition":" n. The nerd-food restaurant in the Folsom Library.","word":"Chez Stavo"}
@@ -145,3 +145,5 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b947"},"definition":" n. Calzone, a folded-over za.","word":"Zone"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b948"},"definition":" n. Air Force ROTC type.","word":"Zoomie"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
+{"_id":{"$oid":"570acccf276a1f81caff83e8"},"word":"Albany","definition":"cold"}
+{"_id":{"$oid":"570bd7d6276a1f81caff83e9"},"word":"New York City","definition":"Big Apple"}
