@@ -140,8 +140,9 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b942"},"definition":" n.  Any vehicle capable of traveling faster than walking.","word":"Whoosh"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b943"},"definition":" n.  (RPI) The campus 10-kilowatt radio station that can be found 91.5 MHz on your FM radio dial, which specializes in not specializing in music. Pronounced ``Whirpee.''","word":"WRPI"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b944"},"definition":" n.  A new version of MTS that became operational in the Fall 84 semester.  Translated, it means ``Extended Aggravation.''","word":"XA"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b945"},"definition":" n. Pizza. Another staple of the Rensselaer Diet.","word":"Za"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b946"},"definition":" n.  The huge vehicle that clears the ice in the Houston Field House. Not a good car for road trips.","word":"Zamboni"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b947"},"definition":" n. Calzone, a folded-over za.","word":"Zone"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b948"},"definition":" n. Air Force ROTC type.","word":"Zoomie"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b945"},"definition":" n. You only live once", "word":"Yolo"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b946"},"definition":" n. Pizza. Another staple of the Rensselaer Diet.","word":"Za"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b947"},"definition":" n.  The huge vehicle that clears the ice in the Houston Field House. Not a good car for road trips.","word":"Zamboni"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b948"},"definition":" n. Calzone, a folded-over za.","word":"Zone"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" n. Air Force ROTC type.","word":"Zoomie"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b950"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
