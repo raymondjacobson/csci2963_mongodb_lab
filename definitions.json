@@ -19,8 +19,6 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8c9"},"definition":" n. The Center for Industrial Innovation, or CII, as translated by lovers of Roman numerals.","word":"Building 102"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8ca"},"definition":" v. To erase, eradicate or otherwise remove from the face of the Earth.","word":"Bulk"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8cb"},"definition":" n. (RPI) For those who don't listen to WPYX, and still don't know this term, it means Albany and Rensselaer Counties and the general surrounding area.","word":"Capitaland"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8cc"},"definition":" n.  A package containing munchies, junk food and probably a stuffed animal, intended to ease homesickness.","word":"Care Package"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8ce"},"definition":" n.  (RPI) The ubiquitous supermarket of the Capital District and all-time favorite food store for RPI students.  Also called ``Price Gouger'' or ``Price Hacker.''","word":"Chopper"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8cf"},"definition":" n. (RPI) Two Rectangles Vertical Gyratory Up, a kinetic metal sculpture which was lent to the Institute by the sculptor, George Rickey, a professor at RPI from 1961 to 1966.  Often confused with meteorological equipment on the Science Center. Although gone, it may be coming back.","word":"Chrinitoid"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8d0"},"definition":" n. A xerox, but more so. Did you know that clones never use mirrors?","word":"Clone"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8d1"},"definition":" n. A very peculiar game which defies explanation, you just have to play it to understand it.","word":"Cosmic Wimpout"}
@@ -38,10 +36,11 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8dd"},"definition":" exp. A word of disgust.","word":"Feh"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8de"},"definition":" v. 1. to boast. 2. to complain, sometimes vehemently. --- n. Someone who flames.","word":"Flame"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8df"},"definition":" v.  (RPI) To secure one's stay at RPI with grades too low to transfer elsewhere. --- adj. Flunked In.","word":"Flunking In"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8cc"},"definition":" n.  A package containing munchies, junk food and probably a stuffed animal, intended to ease homesickness.","word":"Care Package"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8ce"},"definition":" n.  (RPI) The ubiquitous supermarket of the Capital District and all-time favorite food store for RPI students.  Also called ``Price Gouger'' or ``Price Hacker.''","word":"Chopper"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8cd"},"definition":" n. The nerd-food restaurant in the Folsom Library.","word":"Chez Stavo"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8e0"},"definition":" n.  (Niven) Sea-bottom ooze; very fine, fertile mud which is useful for gardens and green, growing things. (Like mold.) Also see: DAKA.","word":"Flup"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8e1"},"definition":" n., acronym. ``F*ck Off And Die.''","word":"FOAD"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8e2"},"definition":" n.  A letter from a company which says, ``We liked your resume, and had a real good time laughing at it, and we don't want to hire you now, but (chuckle) please (snort) try again (hee, hee) later. (Haw, haw, haw!)''  Usually received at the end of your senior year, and whenever you apply for a co-op or a summer job.  Most RPI seniors receive five or six of them.","word":"FOAD Letter"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8e4"},"definition":" n. Fortran, to those who know it well.","word":"Fortrash"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8e5"},"definition":" n. A cryptic chart depicting each and every force, accountable or otherwise, in a force system.","word":"Free Body Diagram"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8e6"},"definition":" n., acronym. Factor Reality into the Situation.","word":"FRITZ"}
@@ -60,11 +59,10 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f3"},"definition":" n. Pertaining to input and output operations, like sex and eating.","word":"I-O"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f4"},"definition":" exp. One small step for a TA, one giant leap for the student.","word":"Intuitively Obvious"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f5"},"definition":" v. To branch, as in a program. To travel, usually by car.","word":"Jump"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8e3"},"definition":" n. Generic pronoun. (Others are: Bar, Zot.)","word":"Foo"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8e2"},"definition":" n.  A letter from a company which says, ``We liked your resume, and had a real good time laughing at it, and we don't want to hire you now, but (chuckle) please (snort) try again (hee, hee) later. (Haw, haw, haw!)''  Usually received at the end of your senior year, and whenever you apply for a co-op or a summer job.  Most RPI seniors receive five or six of them.","word":"FOAD Letter"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f6"},"definition":" n., acronym. Keep it Simple, Stupid.","word":"KISS"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f7"},"definition":" n.  Any alteration or assemblage which takes advantage of faulty rules or organization.  --- v.  To fix in a temporary way (note: long ``u'' as in ``nUke'').","word":"Kludge"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f8"},"definition":" n. One who studies intensively, but only for practical reasons, such as an exam tomorrow. Preferred to ``nerd'' due to it's nature of being reversible into another useful word.","word":"Knurd"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8fa"},"definition":" v. to attach oneself onto.","word":"Latch"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8fb"},"definition":" n. The Nuclear Department's linear accelerator, which is aimed directly at Troy's main water tower, the Space Invader. It is mainly used to project matter out of the Known Universe.","word":"Lineac"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8fc"},"definition":" n. See Endless Loop.","word":"Loop, Endless"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8fd"},"definition":" n.  (RPI) The RPI Players main hideout, the 15th Street Playhouse, as it is referred to by the Players.","word":"Lounge"}
@@ -79,14 +77,14 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b906"},"definition":" n. Meaning any number of items, usually tending to positive infinity.","word":"N"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b907"},"definition":" n. Any of several devices that vend unnatural and artificially flavored food-stuff for late night feeders. The largest collections are in the JEC Lounge, the Field House, and the Folsom Library.","word":"Nerd Feeder"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b908"},"definition":" exp. A greeting call for many on campus.","word":"Ni"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8e3"},"definition":" n. Generic pronoun. (Others are: Bar, Zot.)","word":"Foo"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b909"},"definition":" n.  (RPI) Abbreviation for Niagara Mohawk, the Troy power company.","word":"Ni-Mo"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b90a"},"definition":" n.  Someone or thing that does nothing useful. --- v. To waste time by ``slugging off.'' To ignore something.","word":"No Op"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b90b"},"definition":" n.  Referring to anything nuclear, including weapons, power or radiation. --- v. To eradicate or obliterate.","word":"Nuke"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8f9"},"definition":" n. A practical exercise in Finagle's Law.","word":"Lab Report"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8fa"},"definition":" v. to attach oneself onto.","word":"Latch"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b90c"},"definition":" n. The device resembling a terminal in any RPI-provided kit-chen, it is used to heat food and eradicate numerous forms of matter in general.","word":"Nukerowave"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b90d"},"definition":" n. The existential penguin in ``Bloom County,'' a comic strip that can only be found in The Boston Globe, and occasionally in The Poly.","word":"Opus"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b90e"},"definition":" n. The Hudson River, DAKA food, chem labs.","word":"Organic Waste Products"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b910"},"definition":" v.  The act of convincing your parents that the $15K a year spent on your lifesupport at RPI is worth the expense, despite your grades.","word":"Parental Maintenance"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b911"},"definition":" n. A social gathering with a goal of mixed group interrelating, drinking, etc. --- v. To enjoy the company of others and not be involved in studying. --- adj. To be desirable to have at a party (e.g. ``He's quite a party guy'').","word":"Party"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b912"},"definition":" n.  One of the options available to a Tute student. A class on Pass-Punt does not count against you if you fail or do poorly; it also does not help your GPA even if you do incredibly well. Officially called ``Pass-No Credit.''","word":"Pass-Punt"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b913"},"definition":" n. The perforated strips of paper that come off of computer printouts. Makes great confetti.","word":"Perf"}
@@ -101,14 +99,14 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b91c"},"definition":" n.  (RPI) The three-sided upperclassman housing structure across from the Union.","word":"Quad"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b91d"},"definition":" adj. To be diverse in nature.","word":"Random"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b91e"},"definition":" n., acronym.  (RPI) Rensselaer Apartment Housing Project, is better known as the Alpha Phi Omega fraternity ``house.''","word":"RAHP"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8f9"},"definition":" n. A practical exercise in Finagle's Law.","word":"Lab Report"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b91f"},"definition":" adv. Describing how an action occurs, meaning that it is happening instantly.  --- n. Referring to actual or current events as opposed to the past.","word":"Real Time"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b920"},"definition":" n. (RPI) The Known Universe, minus the RPI environment, which is sheltered in an Apathy Field.","word":"Real World"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b921"},"definition":" n. The Known Universe.","word":"Reality"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b90f"},"definition":" n. Parental units, Pa and Ma.","word":"P \u0026 M"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b910"},"definition":" v.  The act of convincing your parents that the $15K a year spent on your lifesupport at RPI is worth the expense, despite your grades.","word":"Parental Maintenance"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b922"},"definition":" n. The act of leaping up once to see if one will still fall Earthward under the influence of gravity.  Also known as ``Gravity Check.''","word":"Reality Check"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b923"},"definition":" adj. See recursive.","word":"Recursive"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b924"},"definition":" v. To create or originate.","word":"Rez-up"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b926"},"definition":" n.  (RPI) A student of Russell Sage College, who is typified (by RPI men) as a slightly overweight ``MRS'' degree candidate.","word":"Sagie"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b927"},"definition":" n.  Someone who is either climbing a tall campus building, or one who has just landed after a fall off a tall campus building. (See Vector.)","word":"Scalar"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b928"},"definition":" v. To take repetitively until none is left.","word":"Scarf"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b929"},"definition":" n.  (RPI) A particular mutation of RPI's regular curriculum in which students are given the responsibility of administering the Tute Screw to themselves. Sometimes called ``Self Abuse.''","word":"Self Screw"}
@@ -123,19 +121,19 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b932"},"definition":" n.  Anything and everything (pronounced ``star-dot-star'').","word":"*.*"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b933"},"definition":" n. A buzzword prevalent around the end of the spring semes-ter, it is a common method of rating the ``value'' of one's diploma.","word":"Starting Salary"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b934"},"definition":" n. (RPI) One who actively (or obsessively) participates in Student Government.","word":"Stu-Gov"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b90f"},"definition":" n. Parental units, Pa and Ma.","word":"P \u0026 M"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b935"},"definition":" n., acronym.  (RPI) State University of Nubile Young Airheads.","word":"SUNYA"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b936"},"definition":" n.  Unfortunate gradual student who is forced to teach undergrads who speak a foreign tongue, English.","word":"TA"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b937"},"definition":" n. (RPI) For many campus buildings, the floor where the main doors are.","word":"Third Floor"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b925"},"definition":" n.  To gather a group of friends together in a car and get out of Troy.","word":"Road Trip"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b926"},"definition":" n.  (RPI) A student of Russell Sage College, who is typified (by RPI men) as a slightly overweight ``MRS'' degree candidate.","word":"Sagie"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b938"},"definition":" n.  The Total Mall Experience.  Otherwise known as shopping at Crossgates Mall, the ultimate suburban mall in Upstate New York. Be there, aloha.","word":"TME"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b939"},"definition":" n. One who studies, and studies, and ...","word":"Toad"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b93a"},"definition":" n.  One who studies considerably.  v. -ing, to study excessively.","word":"Tool"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b93c"},"definition":" n. (RPI) To quote the Rensselaer Student Handbook, ``A peculiar device ...  whichever way you turn it, it goes in.''","word":"Tute Screw"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b93d"},"definition":" n.  A person who has had his common sense surgically removed.","word":"Twink"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b93e"},"definition":" n.  (RPI) The god of high voltage, whose servants are known as Ni-Mo (q.v.).  To commune with Ultor, poke a paper clip into the wall socket ...","word":"Ultor"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b93f"},"definition":" n. A computer programmer who believes everything you tell him.","word":"User"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b940"},"definition":" n.  (RPI, pronounced ``Vee-See-See'') The Voorhees Computing Center, often confused with the Chapel and Cultural Center as the seat of religious power on campus.","word":"VCC"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b941"},"definition":" n. (1.) In mathematics, a one dimensional matrix.  (2.) Someone who is falling off a tall building. Derives from the last cry of the falling body, ``I'm a vector!''","word":"Vector"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b925"},"definition":" n.  To gather a group of friends together in a car and get out of Troy.","word":"Road Trip"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b942"},"definition":" n.  Any vehicle capable of traveling faster than walking.","word":"Whoosh"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b943"},"definition":" n.  (RPI) The campus 10-kilowatt radio station that can be found 91.5 MHz on your FM radio dial, which specializes in not specializing in music. Pronounced ``Whirpee.''","word":"WRPI"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b944"},"definition":" n.  A new version of MTS that became operational in the Fall 84 semester.  Translated, it means ``Extended Aggravation.''","word":"XA"}
@@ -143,6 +141,8 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b946"},"definition":" n.  The huge vehicle that clears the ice in the Houston Field House. Not a good car for road trips.","word":"Zamboni"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b947"},"definition":" n. Calzone, a folded-over za.","word":"Zone"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b93b"},"definition":" n.  (RPI) One of many shorter versions of RPI's name, devised to help students who cannot spell the whole thing.","word":"Tute"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b93c"},"definition":" n. (RPI) To quote the Rensselaer Student Handbook, ``A peculiar device ...  whichever way you turn it, it goes in.''","word":"Tute Screw"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b948"},"definition":" n. Air Force ROTC type.","word":"Zoomie"}
-{"_id":{"$oid":"582b4ceabff56f0f3d4c2694"},"file":"definitions.json"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b941"},"definition":" n. (1.) In mathematics, a one dimensional matrix.  (2.) Someone who is falling off a tall building. Derives from the last cry of the falling body, ``I'm a vector!''","word":"Vector"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
+{"_id":{"$oid":"582b4ea3bff56f0f3d4c2696"},"definition":" n. Nickname for the Alpha Sigma Phi fraternity.","word":"ASig"}
