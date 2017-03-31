@@ -7,7 +7,7 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8bd"},"definition":" n. Something that can be put anywhere for any reason and not harmfully affect the outcome of any given event. See Fudge Factor.","word":"Arbitrary Constant"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8be"},"definition":" n.  Bullshit. No, really. Symbolized by the ``Right Hand Rule,'' see Halliday and Resnick for the formal definition.","word":"B-Vector"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8bf"},"definition":" n., acronym. (RPI) Burdett Avenue Resident Housing, the only REAL co-ed dorm on campus with its own bad version of DAKA. This place has a history of being a wild party dorm, thanks to the non-homogeneous population. Originally called the Burdett Avenue Residence Facility (BARF).","word":"BARH"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8c0"},"definition":" adv. In discrete lumps.","word":"Batch"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8c0"},"definition":" n. a quantity or consignment of goods produced at one time","word":"Batch"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8c1"},"definition":" n. A main staple of the Rensselaer Diet.","word":"Beer"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8c2"},"definition":" exp. (RPI) A more serious version of alarm, not to be confused with ``Be Like A Real Man.''","word":"Blarm"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8c3"},"definition":" v. To be forced off MTS by the operator, owing to some ``fatal'' computer error.","word":"Blast"}
@@ -145,3 +145,4 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b947"},"definition":" n. Calzone, a folded-over za.","word":"Zone"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b948"},"definition":" n. Air Force ROTC type.","word":"Zoomie"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
+{"_id":{"$oid":"58de8828c8ac9c5accbbdb33"},"word":"Pastrami","definition":"a highly seasoned smoked beef, typically served in thin slices."}
