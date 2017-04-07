@@ -60,7 +60,7 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f2"},"definition":" n. (RPI) Happy Valley Country Club, where most of RPI's Square Root Club members retire for a semester or two.","word":"HVCC"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f3"},"definition":" n. Pertaining to input and output operations, like sex and eating.","word":"I-O"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f4"},"definition":" exp. One small step for a TA, one giant leap for the student.","word":"Intuitively Obvious"}
-{"_id":{"$oid":"56fe9e22bad6b23cde07b8f5"},"definition":" v. To branch, as in a program. To travel, usually by car.","word":"Jump"}
+{"_id":{"$oid":"56fe9e22bad6b23cde07b8f5"},"definition":" v. To branch, as in a program. To travel, usually by car. (Example: jmp rsp)"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f6"},"definition":" n., acronym. Keep it Simple, Stupid.","word":"KISS"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f7"},"definition":" n.  Any alteration or assemblage which takes advantage of faulty rules or organization.  --- v.  To fix in a temporary way (note: long ``u'' as in ``nUke'').","word":"Kludge"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b8f8"},"definition":" n. One who studies intensively, but only for practical reasons, such as an exam tomorrow. Preferred to ``nerd'' due to it's nature of being reversible into another useful word.","word":"Knurd"}
@@ -145,3 +145,4 @@
 {"_id":{"$oid":"56fe9e22bad6b23cde07b947"},"definition":" n. Calzone, a folded-over za.","word":"Zone"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b948"},"definition":" n. Air Force ROTC type.","word":"Zoomie"}
 {"_id":{"$oid":"56fe9e22bad6b23cde07b949"},"definition":" v.  To copy onto a reused piece of magnetic tape, e.g., cassette or video tape.","word":"Zurn"}
+{"_id":{"$oid":"58e7c0272ced66bf02e04c03"},"word":"Chicken Sticker","definition":"n. (RPI) A plague of stickers featuring an angry chicken are all over campus. You will find them around every corner and in hard to reach spots."}
